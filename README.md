@@ -57,11 +57,16 @@ interests:
 <div>
   <img src="https://img.shields.io/badge/-PHP-1a4d2e?style=for-the-badge&logo=php&logoColor=6ABF4B" />
   <img src="https://img.shields.io/badge/-Node.js-1a4d2e?style=for-the-badge&logo=nodedotjs&logoColor=6ABF4B" />
+  <img src="https://img.shields.io/badge/-Java-1a4d2e?style=for-the-badge&logo=openjdk&logoColor=6ABF4B" />
+  <img src="https://img.shields.io/badge/-C-1a4d2e?style=for-the-badge&logo=c&logoColor=6ABF4B" />
+  <img src="https://img.shields.io/badge/-C%23-1a4d2e?style=for-the-badge&logo=csharp&logoColor=6ABF4B" />
+  <img src="https://img.shields.io/badge/-.NET_Framework-1a4d2e?style=for-the-badge&logo=dotnet&logoColor=6ABF4B" />
 </div>
 
 ### 🗄️ Base de Dados & DevOps
 <div>
   <img src="https://img.shields.io/badge/-SQL-1a4d2e?style=for-the-badge&logo=mysql&logoColor=6ABF4B" />
+  <img src="https://img.shields.io/badge/-Firebase-1a4d2e?style=for-the-badge&logo=firebase&logoColor=6ABF4B" />
   <img src="https://img.shields.io/badge/-Docker-1a4d2e?style=for-the-badge&logo=docker&logoColor=6ABF4B" />
   <img src="https://img.shields.io/badge/-Git-1a4d2e?style=for-the-badge&logo=git&logoColor=6ABF4B" />
 </div>
