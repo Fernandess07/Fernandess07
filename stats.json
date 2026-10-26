@@ -1,0 +1,57 @@
+{
+  "contribuicoes": 218,
+  "meses": [
+    {
+      "mes": "nov",
+      "n": 0
+    },
+    {
+      "mes": "dez",
+      "n": 11
+    },
+    {
+      "mes": "jan",
+      "n": 3
+    },
+    {
+      "mes": "fev",
+      "n": 0
+    },
+    {
+      "mes": "mar",
+      "n": 0
+    },
+    {
+      "mes": "abr",
+      "n": 0
+    },
+    {
+      "mes": "mai",
+      "n": 0
+    },
+    {
+      "mes": "jun",
+      "n": 76
+    },
+    {
+      "mes": "jul",
+      "n": 40
+    },
+    {
+      "mes": "ago",
+      "n": 37
+    },
+    {
+      "mes": "set",
+      "n": 42
+    },
+    {
+      "mes": "out",
+      "n": 9
+    }
+  ],
+  "commits": {
+    "logistica": 209,
+    "vps": 4
+  }
+}

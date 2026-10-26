@@ -1,0 +1,29 @@
+name: Cartões
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cartoes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # STATS_TOKEN: token só de leitura com acesso aos repositórios privados (o GITHUB_TOKEN não os vê)
+      - run: node gerar.mjs
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+      - run: |
+          git add -A
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Atualizar cartões"
+          git push

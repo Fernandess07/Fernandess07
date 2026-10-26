@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="230" viewBox="0 0 410 230" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+  <style>
+    .in { opacity: 0; animation: in .6s ease-out forwards; }
+    .flutua { animation: flutua 4s ease-in-out infinite; animation-delay: 1.5s; }
+    .led { animation: pulso 1.2s steps(2) infinite; }
+    @keyframes flutua { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    .pulso { animation: pulso 2s ease-in-out infinite; }
+    .borda { stroke-dasharray: 60 1280; animation: corre 6s linear infinite; animation-delay: 3s; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes pulso { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @keyframes corre { to { stroke-dashoffset: -1280; } }
+  </style>
+  <rect width="410" height="230" rx="14" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="409" height="229" rx="14" fill="none" stroke="#1a4d2e"/>
+  <rect class="borda" x=".5" y=".5" width="409" height="229" rx="14" fill="none" stroke="#6ABF4B" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <clipPath id="tile"><rect x="322" y="18" width="64" height="64" rx="18"/></clipPath>
+    <filter id="sombra" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <g class="in" style="animation-delay:.2s"><g class="flutua">
+    <rect x="328" y="28" width="52" height="52" rx="18" fill="#6ABF4B" opacity=".35" filter="url(#sombra)"/>
+    <g clip-path="url(#tile)"><rect x="322" y="18" width="64" height="64" fill="#1a4d2e"/><rect x="334" y="30" width="40" height="10" rx="3" fill="#0d1117"/>
+      <circle class="led" style="animation-delay:0s" cx="341" cy="35" r="2" fill="#6ABF4B"/>
+      <rect x="348" y="34" width="18" height="2" rx="1" fill="#8b949e" opacity=".5"/><rect x="334" y="44" width="40" height="10" rx="3" fill="#0d1117"/>
+      <circle class="led" style="animation-delay:0.4s" cx="341" cy="49" r="2" fill="#6ABF4B"/>
+      <rect x="348" y="48" width="18" height="2" rx="1" fill="#8b949e" opacity=".5"/><rect x="334" y="58" width="40" height="10" rx="3" fill="#0d1117"/>
+      <circle class="led" style="animation-delay:0.8s" cx="341" cy="63" r="2" fill="#6ABF4B"/>
+      <rect x="348" y="62" width="18" height="2" rx="1" fill="#8b949e" opacity=".5"/></g>
+  </g></g>
+  <g class="in" style="animation-delay:.05s">
+    <circle class="pulso" cx="30" cy="34" r="4.5" fill="#6ABF4B"/>
+    <text x="42" y="39" font-size="12" fill="#8b949e">iOS · privado</text>
+  </g>
+  <text class="in" style="animation-delay:.15s" x="24" y="80" font-size="22" font-weight="700" fill="#6ABF4B">Manzana VPS Admin</text>
+  <text class="in" style="animation-delay:.25s" x="24" y="104" font-size="13" fill="#c9d1d9">App iOS para gerir o servidor</text>
+  <g class="in" style="animation-delay:.35s">
+    <text x="24" y="146" font-size="24" font-weight="700" fill="#c9d1d9">4</text>
+    <text x="46" y="146" font-size="12" fill="#8b949e">commits</text>
+  </g>
+  <g class="in" style="animation-delay:0.5s"><rect x="24" y="168" width="99.19999999999999" height="28" rx="14" fill="#1a4d2e"/><text x="73.6" y="187" text-anchor="middle" font-size="12" fill="#6ABF4B">React Native</text></g>
+<g class="in" style="animation-delay:0.6s"><rect x="129.2" y="168" width="46.4" height="28" rx="14" fill="#1a4d2e"/><text x="152.39999999999998" y="187" text-anchor="middle" font-size="12" fill="#6ABF4B">Expo</text></g>
+<g class="in" style="animation-delay:0.7s"><rect x="181.6" y="168" width="86" height="28" rx="14" fill="#1a4d2e"/><text x="224.6" y="187" text-anchor="middle" font-size="12" fill="#6ABF4B">TypeScript</text></g>
+<g class="in" style="animation-delay:0.8s"><rect x="273.6" y="168" width="53" height="28" rx="14" fill="#1a4d2e"/><text x="300.1" y="187" text-anchor="middle" font-size="12" fill="#6ABF4B">Linux</text></g>
+</svg>
