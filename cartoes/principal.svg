@@ -31,7 +31,7 @@
     <text x="244" y="121">pedro-fernandes</text>
   </g>
   <g class="in" style="animation-delay:.4s">
-    <text x="36" y="176" font-size="28" font-weight="700" fill="#c9d1d9">233</text>
+    <text x="36" y="176" font-size="28" font-weight="700" fill="#c9d1d9">252</text>
     <text x="95" y="176" font-size="13" fill="#8b949e">contribuições no último ano</text>
   </g>
   <rect class="barra" style="animation-delay:0.4s" x="434" y="149.07894736842104" width="23.666666666666668" height="15.921052631578949" rx="3" fill="url(#g)"/>
@@ -56,6 +56,6 @@
     <text x="730.8333333333334" y="183" text-anchor="middle" font-size="11" fill="#8b949e">set</text>
 <rect class="barra" style="animation-delay:1.1s" x="750.6666666666667" y="143.28947368421052" width="23.666666666666668" height="21.710526315789473" rx="3" fill="url(#g)"/>
     <text x="762.5000000000001" y="183" text-anchor="middle" font-size="11" fill="#8b949e">out</text>
-<rect class="barra" style="animation-delay:1.17s" x="782.3333333333334" y="151.97368421052633" width="23.666666666666668" height="13.026315789473683" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:1.17s" x="782.3333333333334" y="124.47368421052632" width="23.666666666666668" height="40.526315789473685" rx="3" fill="url(#g)"/>
     <text x="794.1666666666667" y="183" text-anchor="middle" font-size="11" fill="#8b949e">nov</text>
 </svg>
