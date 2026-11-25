@@ -31,12 +31,12 @@
     <text x="244" y="121">pedro-fernandes</text>
   </g>
   <g class="in" style="animation-delay:.4s">
-    <text x="36" y="176" font-size="28" font-weight="700" fill="#c9d1d9">321</text>
+    <text x="36" y="176" font-size="28" font-weight="700" fill="#c9d1d9">343</text>
     <text x="95" y="176" font-size="13" fill="#8b949e">contribuições no último ano</text>
   </g>
-  <rect class="barra" style="animation-delay:0.4s" x="434" y="152.5257731958763" width="23.666666666666668" height="12.474226804123711" rx="3" fill="url(#g)"/>
+  <rect class="barra" style="animation-delay:0.4s" x="434" y="154.83193277310923" width="23.666666666666668" height="10.168067226890757" rx="3" fill="url(#g)"/>
     <text x="445.8333333333333" y="183" text-anchor="middle" font-size="11" fill="#8b949e">dez</text>
-<rect class="barra" style="animation-delay:0.47000000000000003s" x="465.6666666666667" y="161.5979381443299" width="23.666666666666668" height="3.4020618556701034" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:0.47000000000000003s" x="465.6666666666667" y="162" width="23.666666666666668" height="3" rx="3" fill="url(#g)"/>
     <text x="477.5" y="183" text-anchor="middle" font-size="11" fill="#8b949e">jan</text>
 <rect class="barra" style="animation-delay:0.54s" x="497.3333333333333" y="162" width="23.666666666666668" height="3" rx="3" fill="url(#g)"/>
     <text x="509.16666666666663" y="183" text-anchor="middle" font-size="11" fill="#8b949e">fev</text>
@@ -46,15 +46,15 @@
     <text x="572.5" y="183" text-anchor="middle" font-size="11" fill="#8b949e">abr</text>
 <rect class="barra" style="animation-delay:0.75s" x="592.3333333333334" y="162" width="23.666666666666668" height="3" rx="3" fill="url(#g)"/>
     <text x="604.1666666666667" y="183" text-anchor="middle" font-size="11" fill="#8b949e">mai</text>
-<rect class="barra" style="animation-delay:0.8200000000000001s" x="624" y="78.81443298969073" width="23.666666666666668" height="86.18556701030927" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:0.8200000000000001s" x="624" y="94.74789915966387" width="23.666666666666668" height="70.25210084033613" rx="3" fill="url(#g)"/>
     <text x="635.8333333333334" y="183" text-anchor="middle" font-size="11" fill="#8b949e">jun</text>
-<rect class="barra" style="animation-delay:0.8900000000000001s" x="655.6666666666667" y="119.63917525773196" width="23.666666666666668" height="45.360824742268036" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:0.8900000000000001s" x="655.6666666666667" y="128.0252100840336" width="23.666666666666668" height="36.97478991596639" rx="3" fill="url(#g)"/>
     <text x="667.5000000000001" y="183" text-anchor="middle" font-size="11" fill="#8b949e">jul</text>
-<rect class="barra" style="animation-delay:0.9600000000000001s" x="687.3333333333334" y="123.04123711340206" width="23.666666666666668" height="41.95876288659794" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:0.9600000000000001s" x="687.3333333333334" y="130.7983193277311" width="23.666666666666668" height="34.20168067226891" rx="3" fill="url(#g)"/>
     <text x="699.1666666666667" y="183" text-anchor="middle" font-size="11" fill="#8b949e">ago</text>
-<rect class="barra" style="animation-delay:1.0300000000000002s" x="719" y="117.37113402061856" width="23.666666666666668" height="47.628865979381445" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:1.0300000000000002s" x="719" y="126.17647058823529" width="23.666666666666668" height="38.82352941176471" rx="3" fill="url(#g)"/>
     <text x="730.8333333333334" y="183" text-anchor="middle" font-size="11" fill="#8b949e">set</text>
-<rect class="barra" style="animation-delay:1.1s" x="750.6666666666667" y="147.98969072164948" width="23.666666666666668" height="17.010309278350515" rx="3" fill="url(#g)"/>
+<rect class="barra" style="animation-delay:1.1s" x="750.6666666666667" y="151.1344537815126" width="23.666666666666668" height="13.865546218487395" rx="3" fill="url(#g)"/>
     <text x="762.5000000000001" y="183" text-anchor="middle" font-size="11" fill="#8b949e">out</text>
 <rect class="barra" style="animation-delay:1.17s" x="782.3333333333334" y="55" width="23.666666666666668" height="110" rx="3" fill="url(#g)"/>
     <text x="794.1666666666667" y="183" text-anchor="middle" font-size="11" fill="#8b949e">nov</text>
