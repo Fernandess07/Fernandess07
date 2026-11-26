@@ -1,5 +1,5 @@
 {
-  "contribuicoes": 343,
+  "contribuicoes": 348,
   "meses": [
     {
       "mes": "dez",
@@ -47,11 +47,11 @@
     },
     {
       "mes": "nov",
-      "n": 119
+      "n": 124
     }
   ],
   "commits": {
-    "logistica": 285,
+    "logistica": 290,
     "vps": 6
   }
 }
